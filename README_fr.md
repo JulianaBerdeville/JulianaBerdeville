@@ -34,7 +34,8 @@
 <p>
     Nous sommes toujours confrontés à un scénario de pandémie dans le monde et même si dans certains pays les statistiques ont diminué, nous devons encore être prudents.
 
-    Être prudent! Portez un masque, nettoyez vos mains et vos objets personnels et évitez les endroits bondés, surtout sans ventilation.
+    Être prudent! 
+    Portez un masque, nettoyez vos mains et vos objets personnels et évitez les endroits bondés.
 </p>
 <p>
 
