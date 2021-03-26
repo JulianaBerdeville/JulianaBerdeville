@@ -37,8 +37,8 @@
     Être prudent! Portez un masque, nettoyez vos mains et vos objets personnels et évitez les endroits bondés, surtout sans ventilation.
 </p>
 <p>
-    
-    Je vous souhaite à tous une bonne et bonne journée.    N'oubliez pas que vous êtes aimé et chéri! ✨
+
+Je vous souhaite à tous une bonne et bonne journée.   N'oubliez pas que vous êtes aimé et chéri! ✨
 </p>
 
 <br>
