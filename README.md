@@ -35,7 +35,8 @@
     We're still facing a pandemic scenario around the world and even though in some countries the statistics have decreased, we still need to be careful.
 
     
-    Stay safe! Wear a mask, clean your hands and personal items and avoid crowded places.
+    Stay safe! 
+    Wear a mask, clean your hands and personal items and avoid crowded places.
 </p>
 <p>
     Wish y'all a safe and good day. Remember you are loved and cherished! ✨
