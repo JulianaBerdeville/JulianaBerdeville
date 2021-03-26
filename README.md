@@ -1,4 +1,4 @@
-<img src="imgs/en-readme-banner.gif"/>
+<p align="center"> <img src="imgs/en-readme-banner.gif"/> </p>
 
 # Hiya! 👋🏾
 
