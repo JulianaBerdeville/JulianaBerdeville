@@ -35,7 +35,7 @@
     Ainda estamos enfrentando um cenário de pandemia no mundo todo e, embora as estatísticas indiquem queda em alguns países, ainda precisamos ter cuidado.
 
     Fique em casa! 
-    Use máscara, higienize as mãos e objetos pessoais e evite locais lotados, principalmente sem ventilação.
+    Use máscara, higienize as mãos e objetos pessoais e evite locais lotados.
 </p>
 <p>
     Desejo a todos um dia seguro e ótimo. Lembrem-se que vocês são amados! ✨
