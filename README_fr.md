@@ -1,6 +1,6 @@
 <img src="imgs/en-readme-banner.gif"/>
 
-# Hiya! 👋🏾
+# Salut! 👋🏾
 
 <table align="right">
     <tr>
@@ -29,15 +29,16 @@
     </tr>
 </table>
 
-## Very important Disclaimer:
+## Avertissement très important:
 
 <p>
-    We're still facing a pandemic scenario around the world and even though in some countries the statistics have decreased, we still need to be careful.
+    Nous sommes toujours confrontés à un scénario de pandémie dans le monde et même si dans certains pays les statistiques ont diminué, nous devons encore être prudents.
 
-    Stay safe! Wear a mask, clean your hands and personal items and avoid crowded places, specially with no ventilation.
+    Être prudent! Portez un masque, nettoyez vos mains et vos objets personnels et évitez les endroits bondés, surtout sans ventilation.
 </p>
 <p>
-    Wish y'all a safe and good day. Remember you are loved and cherished! ✨
+    
+    Je vous souhaite à tous une bonne et bonne journée.    N'oubliez pas que vous êtes aimé et chéri! ✨
 </p>
 
 <br>
@@ -48,19 +49,19 @@
 ## ~whoami
 
 <p> 
-    👩🏾‍💻 Currently working as a Software develper @ IBM.
+    👩🏾‍💻 Travaille actuellement en tant que développeur de logiciels @ IBM.
 </p>
 <p> 
-    💡 Passionate about learning new things and creating solutions.
+    💡 Passionné par l'apprentissage de nouvelles choses et la création de solutions.
 </p>
 <p>
-    🇧🇷 Based in Rio, Brazil! 
+    🇧🇷 J'habite à Rio, au Brésil!
 </p>
 <p>
     🥦 Veggie advocate.
 </p>
 <p>
-    🐈 I also have a cat called Callisto!
+    🐈 J'ai aussi un chat qui s'appelle Callisto!
 </p>
 
 <br>
@@ -68,7 +69,7 @@
 ---
 <br>
 
-## my stack: 
+## ma stack: 
 <br>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
@@ -87,7 +88,8 @@
 ---
 <br>
 
-## you can find me at:
+
+## tu peux me trouver à:
 <br>
 <p align="center">
     <a href="https://br.linkedin.com/in/juliana-berdeville">
